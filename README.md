@@ -1,8 +1,11 @@
 ## 👋 Olá 
 * Me chamo Letícia Trói de Oliveira, sou estudante do curso de Análise e Desenvolvimento de Sistemas e atualmente trabalho como Analista de Sistemas na Fábrica de Software da _TOTVS IP_
 
-<img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=LeticiaTroi&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-<img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaTroi&layout=compact&langs_count=16&theme=radical " />
+<div align="center">
+  <a href="https://github.com/LeticiaTroi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeticiaTroi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaTroi&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 
 
